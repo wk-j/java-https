@@ -17,6 +17,8 @@ public class A {
         try {
 
             HttpGet request = new HttpGet("https://httpbin.org/get");
+            request = new HttpGet("https://beflex2aw.bcecm.com/alfresco");
+            request = new HttpGet("https://edoc.ku.ac.th");
 
             // add request headers
             request.addHeader("custom-key", "mkyong");
