@@ -1,4 +1,4 @@
-## HTTPs
+## HTTP (s)
 
 ```bash
 mvn test
